@@ -10,6 +10,8 @@ Differences compared to the original Annovention library:
 * Apache Common Log has been removed; the only dependency is Javassist
 * 2014-02-14 - dbennett455 - New listeners added that accept the Javassist
   objects for access to annotation parameters and other info.
+* 2014-02-15 - dbennett455 - Added new listeners for Method Parameter
+  Annotations in both the original String flavor and new Object flavor.
 
 See `Javadoc <http://ngocdaothanh.github.io/annovention/>`_.
 
